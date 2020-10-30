@@ -1,0 +1,14 @@
+/* comments */
+/*
+property{
+    selector: value;
+}
+
+*/
+body{
+    background-color: pink;
+    color: purple;
+    padding: 40px;
+    font-size: 30px;
+
+}
